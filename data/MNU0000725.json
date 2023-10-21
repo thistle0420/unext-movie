@@ -2701,6 +2701,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021186",
+            "titleName": "スーツ シーズン１",
+            "isNew": false,
+            "catchphrase": "敏腕弁護士と天才青年のイケメン・タッグが話題のスタイリッシュ・リーガルドラマ！",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2011",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021186.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0014675",
             "titleName": "クローザー シーズン６",
             "isNew": false,
@@ -3691,6 +3721,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021178",
+            "titleName": "ヒーローズ シーズン1",
+            "isNew": false,
+            "catchphrase": "超能力を持つ普通の人たちが世界を救う!?全米メガヒットドラマのファーストシーズン",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2006",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021178.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0028230",
             "titleName": "ブラインドスポット シーズン1",
             "isNew": false,
@@ -3895,6 +3955,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00036/SID0036929.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0021187",
+            "titleName": "スーツ シーズン２",
+            "isNew": false,
+            "catchphrase": "ついに天才青年マイクの履歴詐称がバレる!?危機また危機の第2シーズン！",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2012",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021187.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -5101,6 +5191,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021188",
+            "titleName": "スーツ シーズン３",
+            "isNew": false,
+            "catchphrase": "共同経営者が変わり、事務所の抗争が再燃。スタイリッシュ・リーガルドラマの第3弾",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2013",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021188.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0019462",
             "titleName": "THE FLASH／フラッシュ シーズン1",
             "isNew": false,
@@ -6211,6 +6331,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021180",
+            "titleName": "ヒーローズ シーズン3",
+            "isNew": false,
+            "catchphrase": "彼らは本当にヒーローなのか？手に汗握る展開が続く人気シリーズの第3シーズン",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2008",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021180.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0036926",
             "titleName": "リーサル・ウェポン シーズン2",
             "isNew": false,
@@ -6295,6 +6445,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00032/SID0032904.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0021189",
+            "titleName": "スーツ シーズン４",
+            "isNew": false,
+            "catchphrase": "ダブル・イケメンのブロマンス崩壊！ハーヴィーとマイクの対決が見ものの第4シーズン",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2014",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021189.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -7561,6 +7741,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021185",
+            "titleName": "ダウントン・アビー シーズン4",
+            "isNew": false,
+            "catchphrase": "長女メアリーはあの悲劇から立ち直れるのか!?貴族社会を描く英国ドラマの第4章",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2013",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021185.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0067243",
             "titleName": "ミディアム 霊能者アリソン・デュボア シーズン５",
             "isNew": false,
@@ -7621,6 +7831,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021182",
+            "titleName": "ダウントン・アビー シーズン1",
+            "isNew": false,
+            "catchphrase": "大邸宅、ダウントン・アビーを舞台に、貴族や使用人たちの人間模様を描く英国ドラマ",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2010",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021182.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0056689",
             "titleName": "CITY ON A HILL / 罪におぼれた街　シーズン1",
             "isNew": false,
@@ -7645,6 +7885,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056689.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0021184",
+            "titleName": "ダウントン・アビー シーズン3",
+            "isNew": false,
+            "catchphrase": "ついに幸せをつかむメアリーとマシュー。衝撃のラストまで目が離せない第3シーズン",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2012",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021184.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -7856,6 +8126,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00046/SID0046589.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0028795",
+            "titleName": "ダウントン・アビー シーズン5",
+            "isNew": false,
+            "catchphrase": "伯爵家の娘たちの恋模様が大きく動き、ダウントンにも大きな変化が訪れるシーズン5",
+            "rate": 50,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2014",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00028/SID0028795.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -8342,6 +8642,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021183",
+            "titleName": "ダウントン・アビー シーズン2",
+            "isNew": false,
+            "catchphrase": "貴族生活にも戦争の影響が…。長女メアリーとマシューの関係が気になる第2シーズン",
+            "rate": 50,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2011",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021183.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0023937",
             "titleName": "コールドケース シーズン７",
             "isNew": false,
@@ -8492,6 +8822,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0028309",
+            "titleName": "スーツ シーズン５",
+            "isNew": false,
+            "catchphrase": "敏腕弁護士と天才的な記憶力を持つ青年が繰り広げるサクセスストーリー第5シーズン",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2015",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00028/SID0028309.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0049154",
             "titleName": "レガシーズ シーズン２",
             "isNew": false,
@@ -8516,6 +8876,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00049/SID0049154.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0021181",
+            "titleName": "ヒーローズ シーズン4",
+            "isNew": false,
+            "catchphrase": "ヒーローたちに平穏な日々は訪れるのか？濃厚な人間ドラマが楽しめるシリーズ第4弾",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2009",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021181.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -9152,6 +9542,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0021179",
+            "titleName": "ヒーローズ シーズン2",
+            "isNew": false,
+            "catchphrase": "今回は1671年の日本も舞台に！圧倒的なスケールが魅力のSFアクションドラマ第2弾",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2007",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00021/SID0021179.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0037527",
             "titleName": "ミスター・メルセデス シーズン１",
             "isNew": false,
@@ -9636,7 +10056,7 @@
             "titleName": "11.22.63",
             "isNew": false,
             "catchphrase": "ケネディ暗殺を阻止せよ！史実とフィクションが融合したサスペンススリラー",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2016",
@@ -11246,6 +11666,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00044/SID0044366.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0028797",
+            "titleName": "HEROES REBORN/ヒーローズ・リボーン シーズン１",
+            "isNew": false,
+            "catchphrase": "ヒーローたちが最後の戦いに挑む、人気シリーズの完結編",
+            "rate": 35,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2015",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00028/SID0028797.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -14558,7 +15008,7 @@
             "titleName": "NIP/TUCK マイアミ整形外科医 シーズン２",
             "isNew": false,
             "catchphrase": "患者の欲望を満たす2人の整形外科医。第2シーズンは過激さも面白さもパワーアップ！",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2004",
@@ -26830,7 +27280,7 @@
             "titleName": "SAFE -カリフォルニア特別救助隊",
             "isNew": false,
             "catchphrase": "ドルフ・ラングレン初主演ドラマシリーズ。レスキュー・アクション大作！",
-            "rate": 20,
+            "rate": 25,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2013",
@@ -30791,7 +31241,7 @@
             "titleName": "ウォーキング・デッド：ダリル・ディクソン",
             "isNew": true,
             "catchphrase": "『ウォーキング・デッド』の人気キャラ・ダリルのその後描く新スピンオフシリーズ",
-            "rate": 0,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2023",
@@ -30811,6 +31261,96 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00094/SID0094266.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": "EXCL_SVOD",
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0093717",
+            "titleName": "Hung／ハング　シーズン３",
+            "isNew": true,
+            "catchphrase": "レイたちの新たな試みの結末は!?男のセックスビジネスを描く人気コメディ第3シーズン",
+            "rate": 0,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2011",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00093/SID0093717.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": "EXCL_SVOD",
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0093716",
+            "titleName": "Hung／ハング　シーズン２",
+            "isNew": true,
+            "catchphrase": "対立する2人の女性の争いが激化。大ヒットコメディシリーズの第2シーズン",
+            "rate": 0,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2010",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00093/SID0093716.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": "EXCL_SVOD",
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0093715",
+            "titleName": "Hung／ハング　シーズン１",
+            "isNew": true,
+            "catchphrase": "自分の特大サイズのイチモツを利用して、より実りある人生を実現!?",
+            "rate": 0,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2009",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00093/SID0093715.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": "EXCL_SVOD",
