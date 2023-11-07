@@ -10082,6 +10082,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0013955",
+            "titleName": "V シーズン１",
+            "isNew": false,
+            "catchphrase": "宇宙船から現れたエイリアンの目的とは？人類とエイリアンとの闘いを描くSFアクション",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2009",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00013/SID0013955.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0050876",
             "titleName": "THE FLASH／フラッシュ シーズン6",
             "isNew": false,
@@ -11556,7 +11586,7 @@
             "titleName": "Hung／ハング　シーズン１",
             "isNew": true,
             "catchphrase": "自分の特大サイズのイチモツを利用して、より実りある人生を実現!?",
-            "rate": 35,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2009",
@@ -12836,6 +12866,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00003/SID0003037.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0013956",
+            "titleName": "V シーズン２",
+            "isNew": false,
+            "catchphrase": "人々をパニックに陥れる赤い雨…。アナの中に芽生えた感情が新たな展開を巻き起こす",
+            "rate": 35,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2011",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00013/SID0013956.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
