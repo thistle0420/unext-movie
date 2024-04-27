@@ -988,7 +988,7 @@
         {
             "id": "SID0100769",
             "titleName": "大好き！五つ子3",
-            "isNew": true,
+            "isNew": false,
             "catchphrase": "人気シリーズ「大好き！五つ子」の第３弾！３年生になり、パワーアップした五つ子たちが様々な騒動を巻き起こしてゆく、感動も５倍のハートウォーミングストーリー！",
             "rate": 45,
             "titleComment": null,
@@ -10005,7 +10005,7 @@
             "titleName": "西村京太郎サスペンス十津川警部シリーズ19 伊豆七滝殺人事件",
             "isNew": true,
             "catchphrase": "渡瀬恒彦主演「十津川警部」シリーズ第１９弾。十津川らが、婚約者を殺害された部下の無念を晴らすため、複雑でミステリアスな多重人格者の犯罪に挑む。",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2000",
@@ -13291,36 +13291,6 @@
             ],
             "thumbnail": {
                 "standard": "metac.nxtv.jp/img/info/video/0001512/tit/11320/11320.jpg",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0034402",
-            "titleName": "霊能力者 小田霧響子の嘘",
-            "isNew": false,
-            "catchphrase": "石原さとみ扮する偽霊能力者が超常現象に立ち向かうコメディミステリー",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2010",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": false,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00034/SID0034402.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -23157,7 +23127,7 @@
             "titleName": "高校教師（藤木直人、上戸彩）",
             "isNew": false,
             "catchphrase": "衝撃のヒット作第2弾！藤木直人・上戸彩",
-            "rate": 35,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2003",
@@ -35653,7 +35623,7 @@
             "titleName": "サ道 2019 年末 SP-北の聖地でととのう-",
             "isNew": false,
             "catchphrase": "“サウナー”が北の聖地へ！サウナ好きがサウナ好きへ贈るドラマのスペシャル版",
-            "rate": 50,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2019",
@@ -41766,7 +41736,7 @@
             "titleName": "彼らを見ればわかること",
             "isNew": false,
             "catchphrase": "同じマンションに住む3人の女性とその家族が抱える秘密を描いた大人のドラマ",
-            "rate": 35,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2020",
@@ -42374,7 +42344,7 @@
             "titleName": "来来来世でもちゃんとします",
             "isNew": false,
             "catchphrase": "性をこじらせた男女の赤裸々エロラブコメディドラマ「来世ではちゃんとします2」登場人物たちのさらにディープなエピソードを描くParaviオリジナルストーリー。",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2021",
@@ -63891,7 +63861,7 @@
             "titleName": "来世ではちゃんとします　Paravi独占オリジナル映像",
             "isNew": false,
             "catchphrase": "緻密な人間分析でSNSで話題沸騰の人気漫画原作！性をこじらせた男女の赤裸々ラブエロコメディドラマ！",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2020",
@@ -73182,7 +73152,7 @@
             "titleName": "もしも､学校が･･･!?",
             "isNew": false,
             "catchphrase": "落ちこぼれ生徒5人組と3人のダメ教師が巻き起こすUFO事件!三田村邦彦､片岡鶴太郎､山本コウタローが教師を演じ､校長には｢水戸黄門｣の黄門様役･西村晃が扮した｡",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "1985",
@@ -77771,6 +77741,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0059030",
+            "titleName": "緋の十字架",
+            "isNew": true,
+            "catchphrase": "カトリック信者と盲目の美少女が禁断の恋に身を焦がしていく恋愛ドラマ",
+            "rate": 35,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2005",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": false,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00059/SID0059030.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0033953",
             "titleName": "大阪環状線　ひと駅ごとの愛物語",
             "isNew": false,
@@ -78795,7 +78795,7 @@
             "titleName": "センセイの鞄",
             "isNew": false,
             "catchphrase": "小泉今日子＆柄本明が歳の差カップルに！心温まる大人の恋愛ドラマ",
-            "rate": 40,
+            "rate": 35,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2003",
@@ -81531,6 +81531,37 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00010/SID0010980.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0102505",
+            "titleName": "結婚しようよ",
+            "isNew": true,
+            "catchphrase": "江口洋介主演！お互いの切迫した事情により偽装結婚することになった男女が、結婚生活を通して自分たちの夢を見つけるまでを描くコメディードラマ。共演は石田ひかりほか。",
+            "rate": 0,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "1996",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": false,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD",
+                "LNPS_PRV"
+            ],
+            "thumbnail": {
+                "standard": "metac.nxtv.jp/img/info/video/0001512/tit/25101/25101.jpg",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,

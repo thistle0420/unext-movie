@@ -12125,7 +12125,7 @@
             "titleName": "1923",
             "isNew": false,
             "catchphrase": "『イエローストーン』の前日譚第2作。大恐慌時代のダットン家を描く",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2022",
@@ -20485,6 +20485,66 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00031/SID0031708.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0027790",
+            "titleName": "THE BRIDGE/ブリッジ シーズン３",
+            "isNew": true,
+            "catchphrase": "ついに明かされる女刑事サーガの過去！北欧ドラマファン必見のシーズン3",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2015",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00027/SID0027790.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0014986",
+            "titleName": "THE BRIDGE/ブリッジ",
+            "isNew": true,
+            "catchphrase": "スウェーデンとデンマークの国境で起きる連続殺人事件解決のため、両国の警察が奔走！",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2011",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00014/SID0014986.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -34321,6 +34381,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0012047",
+            "titleName": "THE BRIDGE/ブリッジ シーズン２",
+            "isNew": true,
+            "catchphrase": "前作以上の面白さ！スウェーデンとデンマークが生んだ珠玉の北欧ミステリー",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2013",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00012/SID0012047.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0039788",
             "titleName": "野望の階段Ⅲ",
             "isNew": false,
@@ -34801,11 +34891,41 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0100507",
+            "titleName": "THE BRIDGE／ブリッジ　シーズン４",
+            "isNew": true,
+            "catchphrase": "国境にかかる橋の上で起こる連続殺人事件を描いた北欧ミステリーシーズン4",
+            "rate": 0,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2018",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00100/SID0100507.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0100032",
             "titleName": "トゥルー・ディテクティブ ナイト・カントリー",
             "isNew": true,
-            "catchphrase": "2人の女性刑事がアラスカで起きた失踪事件の真相に迫るクライムサスペンス",
-            "rate": 0,
+            "catchphrase": "アカデミー俳優ジョディ・フォスター＆プロボクサー、カーリー・レイスW主演",
+            "rate": 50,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2024",
