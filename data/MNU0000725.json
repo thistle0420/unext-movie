@@ -3151,6 +3151,36 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0042042",
+            "titleName": "ヤング・シェルドン シーズン１",
+            "isNew": false,
+            "catchphrase": "『ビッグバン・セオリー』のオリジンを描く、笑いあり涙ありのハートフルコメディ！",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2017",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00042/SID0042042.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0033118",
             "titleName": "ウエストワールド シーズン１",
             "isNew": false,

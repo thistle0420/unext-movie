@@ -190,7 +190,7 @@
             "titleName": "笑うマトリョーシカ",
             "isNew": true,
             "catchphrase": "水川あさみ×玉山鉄二×櫻井翔が競演！抜群の人気を誇る政治家と有能な秘書、彼らを取り巻く黒い闇に新聞記者が迫る！欲望と謎が絡み合うヒューマン政治サスペンス！",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2024",
@@ -1878,7 +1878,7 @@
             "titleName": "異世界居酒屋「のぶ」Season2～魔女と大司教編～",
             "isNew": true,
             "catchphrase": "正面入口が異世界へとつながってしまう居酒屋を描く新感覚異世界グルメファンタジー",
-            "rate": 50,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2022",
@@ -5703,7 +5703,7 @@
         {
             "id": "SID0104223",
             "titleName": "青春ミュージカルコメディ ｏｄｄｂｏｙｓ",
-            "isNew": true,
+            "isNew": false,
             "catchphrase": "文化祭での公演が控えていた憐（岡宮来夢)たちに突然訪れた廃部の危機！そんな時、ニューヨークから転校生・翔舞（阿部顕嵐）が！これは歌あり笑いありの青春群像劇。",
             "rate": 50,
             "titleComment": null,
@@ -6987,7 +6987,7 @@
             "titleName": "キス×kiss×キス～LOVE ⅱ SHOWER～",
             "isNew": false,
             "catchphrase": "“最高のキスシーン”だけを映像化した恋愛疑似体験型ショートドラマ『キス×kiss×キス』。とろけるようなkissのSHOWERをご堪能ください！",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2023",
@@ -7321,7 +7321,7 @@
         {
             "id": "SID0126363",
             "titleName": "ブラックボード～時代と戦った教師たち～",
-            "isNew": true,
+            "isNew": false,
             "catchphrase": "終戦間際～終戦直後、高度経済成長後、そして震災後の現代。変革の節目に生きた３人の教師の姿を通して、教育とは、日本人とは、人間の希望とは何かを探る教師３人の物語。",
             "rate": 45,
             "titleComment": null,
@@ -7962,7 +7962,7 @@
             "titleName": "インディゴの夜",
             "isNew": true,
             "catchphrase": "ホストクラブの女性店長とイケメンホストたちが事件を解決するサスペンスコメディ",
-            "rate": 35,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2010",
@@ -9338,7 +9338,7 @@
             "titleName": "ひだまりが聴こえる　日本語字幕版",
             "isNew": true,
             "catchphrase": "中沢元紀×小林虎之介Ｗ主演　難聴の大学生と、明るくまっすぐな同級生。ノートテイクを介して繋がってゆく２人の心を繊細に描いた大人気コミックを実写連続ドラマ化！",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2024",
@@ -9766,7 +9766,7 @@
             "titleName": "ウルトラマンアーク",
             "isNew": true,
             "catchphrase": "未来を守る光の巨人・ウルトラマンアークの活躍を描く特撮ヒーローアクション",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2024",
@@ -11110,7 +11110,7 @@
             "titleName": "ウルトラマンオーブ THE ORIGIN SAGA",
             "isNew": true,
             "catchphrase": "かつて同じ勢力に身を置き、共に戦ったといわれるガイとジャグラーの始まりの物語",
-            "rate": 35,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2016",
@@ -21301,6 +21301,37 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0031213",
+            "titleName": "渡る世間は鬼ばかり 2017年3時間スペシャル(橋田壽賀子ドラマ)",
+            "isNew": false,
+            "catchphrase": "国民的人気ドラマ\"渡鬼\"の2017年スペシャル！",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2017",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": false,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD",
+                "LNPS_PRV"
+            ],
+            "thumbnail": {
+                "standard": "metac.nxtv.jp/img/info/video/0001512/tit/14397/14397.jpg",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0031389",
             "titleName": "BORDER 贖罪",
             "isNew": false,
@@ -31443,7 +31474,7 @@
             "titleName": "アリスの棘",
             "isNew": false,
             "catchphrase": "上野樹里主演。大学病院を舞台に、主人公が自ら医師となり・・・",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2014",
@@ -33240,7 +33271,7 @@
             "titleName": "シン・ドゲンジャーズ",
             "isNew": true,
             "catchphrase": "福岡を舞台に、実在するヒーローの活躍を描く特撮シリーズの第5シーズン",
-            "rate": 50,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2024",
@@ -35884,7 +35915,7 @@
             "titleName": "西村京太郎サスペンス 十津川警部シリーズ32 愛の伝説・釧路湿原",
             "isNew": true,
             "catchphrase": "渡瀬恒彦主演「十津川警部」シリーズ第３２弾。東京湾に浮かんだ他殺死体の謎を追って十津川は北海道へ…。広大な釧路湿原を舞台にした大スペクタクル編！",
-            "rate": 50,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2004",
@@ -46246,6 +46277,37 @@
             "__typename": "Title"
         },
         {
+            "id": "SID0096772",
+            "titleName": "下剋上受験",
+            "isNew": true,
+            "catchphrase": "阿部サダヲ主演。中卒の父と偏差値４１の娘が、受験塾にも行かず二人三脚で最難関中学を目指した“奇跡の実話”をドラマ化！人生大逆転をかけた親子の“愛と挑戦”の記録！",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2017",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": false,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD",
+                "LNPS_PRV"
+            ],
+            "thumbnail": {
+                "standard": "metac.nxtv.jp/img/info/video/0001512/tit/14079/14079.jpg",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0032885",
             "titleName": "ドラマスペシャル ヘヤチョウ（2017年12月17日放送）",
             "isNew": false,
@@ -55320,7 +55382,7 @@
             "titleName": "地球戦隊ファイブマン",
             "isNew": false,
             "catchphrase": "全員が教師である5人の兄妹が、地球侵略を目論む銀帝軍ゾーンに立ち向かう",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "1990",
@@ -59270,7 +59332,7 @@
             "titleName": "西村京太郎サスペンス 十津川警部シリーズ14 西村京太郎＆山村美紗 夢の合作サスペンス 海を渡った愛と殺意",
             "isNew": false,
             "catchphrase": "十津川警部と名探偵キャサリンが夢の競演！人気キャラクター２人が力を合わせ、殺人事件の謎に挑む合作サスペンス。出演は渡瀬恒彦、かたせ梨乃ほか。",
-            "rate": 40,
+            "rate": 45,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "1997",
@@ -77152,7 +77214,7 @@
             "titleName": "流れ星お銀!事件解決いたします3",
             "isNew": false,
             "catchphrase": "舞台は観光ブームに沸く金沢。高島礼子が女版「トラック野郎」を演じるシリーズ第3弾",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2003",
@@ -85120,7 +85182,7 @@
             "titleName": "流れ星お銀!事件解決いたします2",
             "isNew": false,
             "catchphrase": "高島礼子主演の人気2時間サスペンスドラマ第2弾！",
-            "rate": 45,
+            "rate": 40,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2001",
