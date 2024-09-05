@@ -1,6 +1,576 @@
 {
     "titles": [
         {
+            "id": "SID0086801",
+            "titleName": "AND JUST LIKE THAT... シーズン２ / セックス・アンド・ザ・シティ新章",
+            "isNew": false,
+            "catchphrase": "いくつになってもパワフルに輝く女性たちを描く「SATC」新章第2シーズン",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2023",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00086/SID0086801.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": "EXCL_SVOD",
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0056443",
+            "titleName": "セックス・アンド・ザ・シティ シーズン2",
+            "isNew": false,
+            "catchphrase": "あの4人が帰ってきた！独身キャリアウーマンの恋とセックスを描いたドラマ第2シーズン",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "1999",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056443.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0058932",
+            "titleName": "プロディガル・サン 殺人鬼の系譜 シーズン１",
+            "isNew": false,
+            "catchphrase": "殺人鬼を父に持つ息子がプロファイラーとして事件を解決していくクライムスリラー",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2019",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00058/SID0058932.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0056439",
+            "titleName": "チェルノブイリ ーCHERNOBYLー",
+            "isNew": false,
+            "catchphrase": "史上最悪の人災・チェルノブイリ原発事故の緊迫の5時間を描くドラマ",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2019",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056439.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0057816",
+            "titleName": "フライト・アテンダント シーズン１",
+            "isNew": false,
+            "catchphrase": "一夜にして殺人容疑者に!?全米で話題沸騰の最旬スタイリッシュ・サスペンス！",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2020",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00057/SID0057816.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0086342",
+            "titleName": "ヤング・シェルドン シーズン５",
+            "isNew": false,
+            "catchphrase": "『ビッグバン★セオリー～』のスピンオフ。今回もご多分に漏れず騒動を巻き起こす！",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2021",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00086/SID0086342.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0147979",
+            "titleName": "プリティ・リトル・ライアーズ シーズン２ SUMMER SCHOOL",
+            "isNew": true,
+            "catchphrase": "ライアーズたちが恐ろしい運命に直面。新たな敵が試練に陥れる",
+            "rate": 35,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2024",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00147/SID0147979.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0147978",
+            "titleName": "ラリーのミッドライフ☆クライシス シーズン12",
+            "isNew": true,
+            "catchphrase": "トラブルはまだまだ続く！カリスマプロデューサーの楽しい日常を描く",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2024",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00147/SID0147978.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0104808",
+            "titleName": "ジュリア -アメリカの食卓を変えたシェフ- シーズン２",
+            "isNew": false,
+            "catchphrase": "料理研究家ジュリア・チャイルドの半生を描いた人気ドラマの第2シーズン",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2023",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00104/SID0104808.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0056449",
+            "titleName": "ビッグ・リトル・ライズ シーズン１",
+            "isNew": false,
+            "catchphrase": "セレブママたちの裏の顔を描くスタイリッシュサスペンスのシーズン1",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2017",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056449.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0067543",
+            "titleName": "ユーフォリア／EUPHORIA シーズン2",
+            "isNew": false,
+            "catchphrase": "さまざまな問題を抱えて生きる高校生たちの姿をスタイリッシュに描くシリーズ第2弾",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2022",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00067/SID0067543.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0061811",
+            "titleName": "ホワイト・ロータス / 諸事情だらけのリゾートホテル シーズン1",
+            "isNew": false,
+            "catchphrase": "『スクール・オブ・ロック』のマイク・ホワイト監督が送るブラックコメディドラマ",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2021",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00061/SID0061811.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0095108",
+            "titleName": "フル・サークル",
+            "isNew": false,
+            "catchphrase": "アカデミー賞受賞経験のあるスティーブン・ソダーバーグ監督によるクライムスリラー",
+            "rate": 35,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2023",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00095/SID0095108.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": "EXCL_SVOD",
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0057569",
+            "titleName": "ザ・ソプラノズ　２つのファミリーを持つ男 シーズン１",
+            "isNew": false,
+            "catchphrase": "平凡な父親とマフィアのボス、ふたつの家族のはざまで生きる男を描いたコメディ",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "1999",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00057/SID0057569.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0084863",
+            "titleName": "ジェネレーション・キル",
+            "isNew": false,
+            "catchphrase": "イラク戦争の最前線でバグダッドを目指す海兵隊偵察部隊の40日間を描いた戦争ドラマ",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2008",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00084/SID0084863.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0073412",
+            "titleName": "ゲーム・オブ・スローンズ：ラスト・ウォッチ",
+            "isNew": false,
+            "catchphrase": "『ゲーム・オブ・スローンズ　最終章』の撮影現場に1年間密着したドキュメンタリー",
+            "rate": 45,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2019",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00073/SID0073412.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0066787",
+            "titleName": "セックスライフ・オブ・カレッジガール シーズン１",
+            "isNew": false,
+            "catchphrase": "大学寮でルームシェアをすることになった女子大生4人の赤裸々な生活を描いたコメディ",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2021",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00066/SID0066787.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0073414",
+            "titleName": "WE OWN THIS CITY -不正と汚職が支配する街-",
+            "isNew": false,
+            "catchphrase": "不正と汚職が支配する警察組織の事実に基づいたドラマ",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2022",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00073/SID0073414.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": "EXCL_SVOD",
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0070041",
+            "titleName": "THE NAKED シーズン3",
+            "isNew": false,
+            "catchphrase": "一組の男女が過酷な僻地で、裸一貫でサバイバルするシリーズ第3弾",
+            "rate": 40,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2017",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": false,
+            "hasDub": true,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00070/SID0070041.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
             "id": "SID0103363",
             "titleName": "ハウス・オブ・ザ・ドラゴン シーズン２",
             "isNew": false,
@@ -88,36 +658,6 @@
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0086801",
-            "titleName": "AND JUST LIKE THAT... シーズン２ / セックス・アンド・ザ・シティ新章",
-            "isNew": false,
-            "catchphrase": "いくつになってもパワフルに輝く女性たちを描く「SATC」新章第2シーズン",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2023",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00086/SID0086801.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": "EXCL_SVOD",
             "__typename": "Title"
         },
         {
@@ -865,36 +1405,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00036/SID0036768.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0056443",
-            "titleName": "セックス・アンド・ザ・シティ シーズン2",
-            "isNew": false,
-            "catchphrase": "あの4人が帰ってきた！独身キャリアウーマンの恋とセックスを描いたドラマ第2シーズン",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "1999",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056443.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -2125,36 +2635,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00022/SID0022694.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0058932",
-            "titleName": "プロディガル・サン 殺人鬼の系譜 シーズン１",
-            "isNew": false,
-            "catchphrase": "殺人鬼を父に持つ息子がプロファイラーとして事件を解決していくクライムスリラー",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2019",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00058/SID0058932.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -5671,36 +6151,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0056439",
-            "titleName": "チェルノブイリ ーCHERNOBYLー",
-            "isNew": false,
-            "catchphrase": "史上最悪の人災・チェルノブイリ原発事故の緊迫の5時間を描くドラマ",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2019",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056439.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0036929",
             "titleName": "ビッグバン・セオリー シーズン9",
             "isNew": false,
@@ -6205,36 +6655,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00095/SID0095641.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0147979",
-            "titleName": "プリティ・リトル・ライアーズ シーズン２ SUMMER SCHOOL",
-            "isNew": true,
-            "catchphrase": "ライアーズたちが恐ろしい運命に直面。新たな敵が試練に陥れる",
-            "rate": 35,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2024",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00147/SID0147979.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -8521,36 +8941,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0086342",
-            "titleName": "ヤング・シェルドン シーズン５",
-            "isNew": false,
-            "catchphrase": "『ビッグバン★セオリー～』のスピンオフ。今回もご多分に漏れず騒動を巻き起こす！",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2021",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00086/SID0086342.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0032926",
             "titleName": "ER 緊急救命室 シーズン6",
             "isNew": false,
@@ -8695,36 +9085,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00002/SID0002593.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0057816",
-            "titleName": "フライト・アテンダント シーズン１",
-            "isNew": false,
-            "catchphrase": "一夜にして殺人容疑者に!?全米で話題沸騰の最旬スタイリッシュ・サスペンス！",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2020",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00057/SID0057816.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -9301,36 +9661,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0056449",
-            "titleName": "ビッグ・リトル・ライズ シーズン１",
-            "isNew": false,
-            "catchphrase": "セレブママたちの裏の顔を描くスタイリッシュサスペンスのシーズン1",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2017",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056449.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0033533",
             "titleName": "ER 緊急救命室 シーズン15",
             "isNew": false,
@@ -9571,36 +9901,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0147978",
-            "titleName": "ラリーのミッドライフ☆クライシス シーズン12",
-            "isNew": true,
-            "catchphrase": "トラブルはまだまだ続く！カリスマプロデューサーの楽しい日常を描く",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2024",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00147/SID0147978.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0032927",
             "titleName": "ER 緊急救命室 シーズン7",
             "isNew": false,
@@ -9835,36 +10135,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00059/SID0059176.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0104808",
-            "titleName": "ジュリア -アメリカの食卓を変えたシェフ- シーズン２",
-            "isNew": false,
-            "catchphrase": "料理研究家ジュリア・チャイルドの半生を描いた人気ドラマの第2シーズン",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2023",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00104/SID0104808.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -10831,36 +11101,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0057569",
-            "titleName": "ザ・ソプラノズ　２つのファミリーを持つ男 シーズン１",
-            "isNew": false,
-            "catchphrase": "平凡な父親とマフィアのボス、ふたつの家族のはざまで生きる男を描いたコメディ",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "1999",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00057/SID0057569.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0056817",
             "titleName": "TRUE DETECTIVE／トゥルー・ディテクティブ シーズン2",
             "isNew": false,
@@ -11545,36 +11785,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00067/SID0067242.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0061811",
-            "titleName": "ホワイト・ロータス / 諸事情だらけのリゾートホテル シーズン1",
-            "isNew": false,
-            "catchphrase": "『スクール・オブ・ロック』のマイク・ホワイト監督が送るブラックコメディドラマ",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2021",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00061/SID0061811.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -13111,36 +13321,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0095108",
-            "titleName": "フル・サークル",
-            "isNew": false,
-            "catchphrase": "アカデミー賞受賞経験のあるスティーブン・ソダーバーグ監督によるクライムスリラー",
-            "rate": 35,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2023",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00095/SID0095108.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": "EXCL_SVOD",
-            "__typename": "Title"
-        },
-        {
             "id": "SID0079538",
             "titleName": "宇宙戦争 シーズン２",
             "isNew": false,
@@ -13315,36 +13495,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00087/SID0087799.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0067543",
-            "titleName": "ユーフォリア／EUPHORIA シーズン2",
-            "isNew": false,
-            "catchphrase": "さまざまな問題を抱えて生きる高校生たちの姿をスタイリッシュに描くシリーズ第2弾",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2022",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00067/SID0067543.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -13555,36 +13705,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00049/SID0049154.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0073412",
-            "titleName": "ゲーム・オブ・スローンズ：ラスト・ウォッチ",
-            "isNew": false,
-            "catchphrase": "『ゲーム・オブ・スローンズ　最終章』の撮影現場に1年間密着したドキュメンタリー",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2019",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00073/SID0073412.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -15451,36 +15571,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0084863",
-            "titleName": "ジェネレーション・キル",
-            "isNew": false,
-            "catchphrase": "イラク戦争の最前線でバグダッドを目指す海兵隊偵察部隊の40日間を描いた戦争ドラマ",
-            "rate": 45,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2008",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00084/SID0084863.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0080051",
             "titleName": "GIRLS／ガールズ１",
             "isNew": false,
@@ -15835,36 +15925,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00063/SID0063635.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0066787",
-            "titleName": "セックスライフ・オブ・カレッジガール シーズン１",
-            "isNew": false,
-            "catchphrase": "大学寮でルームシェアをすることになった女子大生4人の赤裸々な生活を描いたコメディ",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2021",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00066/SID0066787.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -16861,36 +16921,6 @@
             "__typename": "Title"
         },
         {
-            "id": "SID0085218",
-            "titleName": "アフター・ザ・スローンズ",
-            "isNew": false,
-            "catchphrase": "『ゲーム・オブ・スローンズ　第六章：冬の狂風』を徹底検証していくアフターショー",
-            "rate": 35,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2016",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00085/SID0085218.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
             "id": "SID0063634",
             "titleName": "ブリティッシュ ベイクオフ シリーズ6",
             "isNew": false,
@@ -17398,36 +17428,6 @@
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0073414",
-            "titleName": "WE OWN THIS CITY -不正と汚職が支配する街-",
-            "isNew": false,
-            "catchphrase": "不正と汚職が支配する警察組織の事実に基づいたドラマ",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2022",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": true,
-            "hasDub": false,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00073/SID0073414.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": "EXCL_SVOD",
             "__typename": "Title"
         },
         {
@@ -18145,36 +18145,6 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00056/SID0056457.png",
-                "__typename": "Thumbnail"
-            },
-            "exclusiveBadgeCode": null,
-            "__typename": "Title"
-        },
-        {
-            "id": "SID0070041",
-            "titleName": "THE NAKED シーズン3",
-            "isNew": false,
-            "catchphrase": "一組の男女が過酷な僻地で、裸一貫でサバイバルするシリーズ第3弾",
-            "rate": 40,
-            "titleComment": null,
-            "titleHeading": null,
-            "productionYear": "2017",
-            "updateOfWeek": -1,
-            "lastEpisode": "",
-            "nfreeBadge": "",
-            "hasSubtitle": false,
-            "hasDub": true,
-            "paymentBadgeList": [
-                {
-                    "code": "SVOD",
-                    "__typename": "PaymentBadge"
-                }
-            ],
-            "productLineupCodeList": [
-                "LNPS_SVOD"
-            ],
-            "thumbnail": {
-                "standard": "imgc.nxtv.jp/img/info/tit/00070/SID0070041.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -20185,6 +20155,36 @@
             ],
             "thumbnail": {
                 "standard": "imgc.nxtv.jp/img/info/tit/00031/SID0031708.png",
+                "__typename": "Thumbnail"
+            },
+            "exclusiveBadgeCode": null,
+            "__typename": "Title"
+        },
+        {
+            "id": "SID0085218",
+            "titleName": "アフター・ザ・スローンズ",
+            "isNew": false,
+            "catchphrase": "『ゲーム・オブ・スローンズ　第六章：冬の狂風』を徹底検証していくアフターショー",
+            "rate": 35,
+            "titleComment": null,
+            "titleHeading": null,
+            "productionYear": "2016",
+            "updateOfWeek": -1,
+            "lastEpisode": "",
+            "nfreeBadge": "",
+            "hasSubtitle": true,
+            "hasDub": false,
+            "paymentBadgeList": [
+                {
+                    "code": "SVOD",
+                    "__typename": "PaymentBadge"
+                }
+            ],
+            "productLineupCodeList": [
+                "LNPS_SVOD"
+            ],
+            "thumbnail": {
+                "standard": "imgc.nxtv.jp/img/info/tit/00085/SID0085218.png",
                 "__typename": "Thumbnail"
             },
             "exclusiveBadgeCode": null,
@@ -32495,7 +32495,7 @@
             "titleName": "ザ・ウォッチ",
             "isNew": false,
             "catchphrase": "はみ出し者の警官チームが退廃した街を災難から救うファンタジー・クライムコメディ",
-            "rate": 35,
+            "rate": 30,
             "titleComment": null,
             "titleHeading": null,
             "productionYear": "2021",
